@@ -142,4 +142,4 @@ chmod +x xali.sh
 - 🐟 闲鱼: `我不是遥辉`
 - 🔥 B站: `消失的阿力`
 - ☀️ 互站: `遥辉正版`
-- 🛫 TG：`@ktzxyh`
+- 🛫 TG：`@xywlxyh`
